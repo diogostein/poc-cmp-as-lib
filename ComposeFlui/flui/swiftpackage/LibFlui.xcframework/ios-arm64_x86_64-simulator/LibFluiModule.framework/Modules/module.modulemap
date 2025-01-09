@@ -1,0 +1,5 @@
+framework module "LibFluiModule" {
+    umbrella header "LibFluiModule.h"
+    export *
+    module * { export * }
+}
